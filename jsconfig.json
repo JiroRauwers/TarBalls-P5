@@ -1,0 +1,7 @@
+{
+  "include": [
+    "*.js",
+    "libraries/*.js",
+    "c:\\Users\\jiro\\scoop\\persist\\vscode\\data\\extensions\\wmcicompsci.cs30-p5-1.7.5\\p5types\\global.d.ts"
+  ]
+}
